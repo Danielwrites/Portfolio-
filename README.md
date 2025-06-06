@@ -12,7 +12,7 @@
 ## 📁 Portfolio Contents
 - 📄 [Resume](./Adegboye_Daniel_Remote_Resume.docx)
 - ✉️ [Cover Letter](./Adegboye_Daniel_Cover_Letter.docx)
-- 📊 Sample Excel Log Sheet (coming soon)
+- 📊- 📊 [Support Ticket Tracker – Excel Sample](./Support_Ticket_Tracker_Daniel.xls
 - 📚 Typing Sample – Academic Document (coming soon)
 
 ## 🎯 Goals
